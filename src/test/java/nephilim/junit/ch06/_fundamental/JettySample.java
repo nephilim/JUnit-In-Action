@@ -1,4 +1,4 @@
-package nephilim.junit.ch6._fundamental;
+package nephilim.junit.ch06._fundamental;
 
 import java.io.File;
 

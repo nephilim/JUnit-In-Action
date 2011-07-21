@@ -1,4 +1,4 @@
-package nephilim.junit.ch6.handler;
+package nephilim.junit.ch06.handler;
 
 import java.io.BufferedOutputStream;
 import java.io.IOException;

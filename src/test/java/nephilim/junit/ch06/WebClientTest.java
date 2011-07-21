@@ -1,12 +1,13 @@
-package nephilim.junit.ch6;
+package nephilim.junit.ch06;
 
 import static org.hamcrest.Matchers.*;
 import static org.junit.Assert.assertThat;
 
 import java.net.URL;
 
-import nephilim.junit.ch6.handler.ContentNotFoundHandler;
-import nephilim.junit.ch6.handler.StaticMessageReturnHandler;
+import nephilim.junit.ch06.handler.ContentNotFoundHandler;
+import nephilim.junit.ch06.handler.StaticMessageReturnHandler;
+import nephilim.junit.ch6.WebClient;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
