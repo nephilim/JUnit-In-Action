@@ -3,6 +3,26 @@ JUnit In Action 사내 스터디
 * 진행: 2011/7월~ 
 * 참여: nephilim, kayem, yunuuuu
 
+진행 
+-----
+- 2부
+	6. Jetty										
+	7. Mock > Mockito로 진행					
+	8. In-Cotainer		
+- 3부
+	9. Ant(x)	
+	10. Maven(△) - nephilim?							
+	11. CI(x)	
+- 4부
+	12. UI - 									
+	13. Ajax(!GWT) 							
+	14. Server-side(cactus) 
+	15. JSP(!JSF)
+	16. OSGi(x)
+	17. 데이터베이스 
+	18. JPA(x)
+	19. 팁
+	
 참고 자료
 ----------
 * [Mocks Aren't Stubs](http://martinfowler.com/articles/mocksArentStubs.html#TheDifferenceBetweenMocksAndStubs)
